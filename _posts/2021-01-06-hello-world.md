@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: Github search
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+1、Search
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+language:Objective-C stars:>0
+git 学习资料 in:readme
+blog easy start in:readme stars:>5000
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+2、高级搜索
+
+https://github.com/search/advanced
+https://github.com/search?utf8=%E2%9C%93&q=&type=Repositories&ref=advsearch&l=&l=
+
+3、热门趋势
+
+https://github.com/trending
+
